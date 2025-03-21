@@ -65,7 +65,7 @@ main() {
     then
         curl "http://setup.rbxcdn.com/mac/$robloxVersion-RobloxPlayer.zip" -o "./RobloxPlayer.zip"
     else
-        curl "http://setup.rbxcdn.com/mac/$version-2ndifos02394-RobloxPlayer.zip" -o "./RobloxPlayer.zip"
+        curl "http://setup.rbxcdn.com/mac/$version-0e4e41c10a5a43cf-RobloxPlayer.zip" -o "./RobloxPlayer.zip"
     fi
     
     echo -n "Installing Latest Roblox... "
